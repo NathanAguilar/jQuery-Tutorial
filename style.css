@@ -8,13 +8,14 @@
     width: 300px;
     position: relative;
 }
-#div2{
+
+#div3{
     margin: auto;
     margin-top: 10px;
     text-align: center;
     border: 3px black dotted;
     font-size: 30px;
-    background-color: yellow;
+    background-color: rgb(123, 123, 123);
     height: 300px;
     width: 300px;
     position: relative;

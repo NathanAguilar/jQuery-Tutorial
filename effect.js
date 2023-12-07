@@ -1,6 +1,17 @@
 $("document").ready(function(){
 
-    $("#btn7").click(function(){
+        $("#btn").click(function(){
+            $("#img").animate({
+                left:'150px',
+                opacity:'1',
+                height:'400px',
+                width:'800px'
+            },'slow')
+        })    
+});    
+    
+    
+    /*$("#btn7").click(function(){
         $("#img1").slideUp(2000);
     })
     $("#btn8").click(function(){
@@ -13,7 +24,7 @@ $("document").ready(function(){
         $("#img1").stop();
     })
 
-});
+});*/
 
 
     /*$("#btn1").click(function(){

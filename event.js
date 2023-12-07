@@ -1,0 +1,16 @@
+/*function func1()
+{
+    document.getElementById("img1").style.width="500px";
+}
+*/
+
+/*
+$("button").click(func1);
+function func1(){
+    $("#img1").css('width','500px');
+}
+*/
+
+$("button").click(function(){
+    $("#img1").css('width','500px');
+});
